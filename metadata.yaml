@@ -1,0 +1,30 @@
+_repo: Historic-Highways-of-America--Vol.-5-The-Old-Glade--Forbes-s--Road_41118
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hulbert, Archer Butler
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '1112'
+    url: http://www.gutenberg.org/2009/agents/1112
+description: ''
+gutenberg_issued: '2012-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41118'
+  lccn: '03013005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Historic Highways of America, Vol. 5
+subjects:
+- !lcc 'E151'
+- !lcc 'HE'
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763'
+- !lcsh 'Forbes Road (Pa.)'
+title: The Old Glade (Forbes's) Road (Pennsylvania State Road)
+url: http://www.gutenberg.org/ebooks/41118
