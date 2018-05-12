@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1112'
     url: http://www.gutenberg.org/2009/agents/1112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41118#Historic-Highways-of-America--Vol.-5-The-Old-Glade--Forbes-s--Road
 gutenberg_issued: '2012-10-20'
 gutenberg_type: Text
 identifiers:
